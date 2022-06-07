@@ -9,9 +9,9 @@ Last Updated: December 16, 2020
 
 Introduction
 
-This Cookie Notice (“Notice“) explains how NetNodes Limited. (“NetNodes,” “we,” “us,” and “our“) use cookies and similar technologies to recognize you when you visit, interact with or use any of our websites (such as [www.netnodes.net](https://www.netnodes.net) or [www.doorflow.com](https://www.doorflow.com)), online advertisements or marketing communications (collectively for the purposes of this Notice, the “Sites“). This Notice explains what these technologies are and why we use them, as well as your rights to control our use of them.
+This Cookie Notice (“Notice“) explains how PassFlow Limited. (“PassFlow,” “we,” “us,” and “our“) use cookies and similar technologies to recognize you when you visit, interact with or use any of our websites (such as [www.passflow.io](https://www.passflow.io) or [manage.passflow.io](https://manage.passflow.io)), online advertisements or marketing communications (collectively for the purposes of this Notice, the “Sites“). This Notice explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
-We may use cookies and similar technologies to collect personal information, or information that becomes personal information if we combine it with other information. In such cases, the [Data Protection & Privacy](https://policy.doorflow.com/privacy_policy) policy will apply in addition to this Cookie Notice.
+We may use cookies and similar technologies to collect personal information, or information that becomes personal information if we combine it with other information. In such cases, the [Data Protection & Privacy](https://policy.passflow.io/privacy_policy) policy will apply in addition to this Cookie Notice.
 
 ### What cookies do we use and why?
 
@@ -45,7 +45,7 @@ You have the right to decide whether to accept or reject cookies. You can exerci
 
 **Opting out of tracking via your mobile device:** If you are using a mobile device, you can opt out of having your mobile identifier used for certain types of Interest Based Advertising, including those performed by us, by accessing the settings in your Apple or Android mobile device and following the most recent published instructions. If you opt-out, no further data collection or tracking will occur. This means that if at a later stage, you decide to opt-in, we will not be able to continue and track you using the same ID as before and you will for all practical purposes be a new user to our system.
 
-**Do Not Track:** Some Internet browsers – like Internet Explorer, Firefox, and Safari – include the ability to transmit “Do Not Track” or “DNT” signals. Since uniform standards for “DNT” signals have not been adopted, some features of the NetNodes Sites do not respond to browser “DNT” signals. NetNodes takes privacy seriously and will continue monitoring developments around DNT browser technology and the implementation of a standard. To learn more about “DNT,” please visit “All About Do Not Track.”
+**Do Not Track:** Some Internet browsers – like Internet Explorer, Firefox, and Safari – include the ability to transmit “Do Not Track” or “DNT” signals. Since uniform standards for “DNT” signals have not been adopted, some features of the PassFlow Sites do not respond to browser “DNT” signals. PassFlow takes privacy seriously and will continue monitoring developments around DNT browser technology and the implementation of a standard. To learn more about “DNT,” please visit “All About Do Not Track.”
 
 ### How often will we update this Cookie Notice?
 
@@ -53,4 +53,4 @@ We may update this Cookie Notice from time to time in order to reflect, for exam
 
 Each time you use our Sites, the current version of the Notice will apply. When you use our Sites, you should check the date of this Notice (which appears at the top of this Notice) and review any changes since the last version. You should review this Cookie Notice regularly to stay informed about our use of cookies and related technologies.
 
-Where can I get further information? If you have any questions about our use of cookies, please email us at privacy@netnodes.net
+Where can I get further information? If you have any questions about our use of cookies, please email us at privacy@passflow.io
