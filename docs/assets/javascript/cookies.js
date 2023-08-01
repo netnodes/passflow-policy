@@ -46,13 +46,13 @@ function reset() {
 function accept() {
   updateCookieDecision('OK');
   document.querySelector( '.cookies' ).classList.add('hidden');
-  document.cookie = 'cookieConsent=OK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
+  document.cookie = 'cookieConsent=OK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=passflow.io; path=/';
 }
 
 function decline() {
   updateCookieDecision('NotOK');
   document.querySelector( '.cookies' ).classList.add('hidden');
-  document.cookie = 'cookieConsent=NotOK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=doorflow.com; path=/';
+  document.cookie = 'cookieConsent=NotOK; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=passflow.io; path=/';
   removeCookies();
 }
 
@@ -94,7 +94,7 @@ function removeCookies() {
   for (let i = 0; i < cookieNames.length; i++) {
     const cookieName = cookieNames[i];
     if (prefixes.some(prefix => cookieName.indexOf(prefix) === 0)) {
-      document.cookie = cookieName + '=delete; expires=Sun, 1 Jan 2023 23:59:59 UTC; domain=doorflow.com; path=/;';
+      document.cookie = cookieName + '=delete; expires=Sun, 1 Jan 2023 23:59:59 UTC; domain=passflow.io; path=/;';
     }
   }
 
