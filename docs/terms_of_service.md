@@ -3,7 +3,7 @@ go_back: true
 ---
 
 
-## PassFlow Terms of Service
+## Terms of Service
 
 These Terms of Service (“Terms”) govern your access to and use of the PassFlow platform, APIs, dashboard, and related services (“Service”). PassFlow is a trading name of **NetNodes Limited** (“NetNodes”, “we”, “us”).
 
