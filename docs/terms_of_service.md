@@ -27,8 +27,8 @@ If you are entering into these Terms on behalf of an organisation, you represent
 2.1 **Customer Data Ownership.** Customer retains all rights to the data, assets, and content uploaded or created within the Service (“Customer Data”).  
 2.2 **Processor Role.** To the extent NetNodes processes personal data on behalf of the Customer, NetNodes acts as a **Data Processor**.  
 2.3 **DPA Incorporation.**  
-By creating an account or using the Service, the Customer automatically enters into the **Data Processing Agreement (DPA)** available at https://policy.netnodes.net/dpa which forms part of these Terms.  
-2.4 **Privacy Policy.** Use of the Service is also subject to our Privacy Policy at https://policy.passflow.io/privacy
+By creating an account or using the Service, the Customer automatically enters into the **Data Processing Agreement (DPA)** available at [https://policy.netnodes.net/dpa](https://policy.netnodes.net/dpa) which forms part of these Terms.  
+2.4 **Privacy Policy.** Use of the Service is also subject to our Privacy Policy at [https://policy.passflow.io/privacy](https://policy.passflow.io/privacy)
 
 
 
