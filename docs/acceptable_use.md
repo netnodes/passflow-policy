@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-# PassFlow API Acceptable Use Policy
+# API Acceptable Use Policy
  
 _Last Updated: November 2025_
 
@@ -12,7 +12,6 @@ By accessing or using the Developer Services, you agree to comply with this Poli
 
 If you violate this Policy, PassFlow may suspend or terminate your access.
 
----
 
 ## 1. Respect for Users
 
@@ -22,7 +21,6 @@ You must provide clear information to your users about how their data is used, s
 
 You may not collect or process data for purposes your users would not reasonably expect.
 
----
 
 ## 2. Data Integrity and Protection
 
@@ -32,7 +30,6 @@ You may not store API keys or sensitive data in client-side code, public reposit
 
 You must promptly delete any data you no longer require for its intended purpose.
 
----
 
 ## 3. Prohibited Content and Behaviour
 
@@ -63,7 +60,6 @@ You may not use the Developer Services to:
 - reverse engineer or attempt to derive source code  
 - run automated processes that degrade system performance
 
----
 
 ## 4. Fair and Responsible Usage
 
@@ -73,7 +69,6 @@ You may not deliberately generate excessive traffic, create unnecessary load, or
 
 PassFlow may apply traffic shaping, throttling, or temporary suspension where usage threatens system stability.
 
----
 
 ## 5. Integrity of the PassFlow Ecosystem
 
@@ -85,7 +80,6 @@ Your integration must not:
 
 You must display the PassFlow brand only in accordance with PassFlow Branding Guidelines.
 
----
 
 ## 6. Security Incidents
 
@@ -93,7 +87,6 @@ If you experience or suspect a security incident involving data, API keys, or Pa
 
 You must investigate incidents promptly, take corrective action, and cooperate with PassFlow where needed to protect users and systems.
 
----
 
 ## 7. Monitoring and Enforcement
 
@@ -108,7 +101,6 @@ PassFlow may suspend or revoke access to the Developer Services at any time wher
 
 PassFlow is not required to provide advance notice but will do so where reasonable.
 
----
 
 ## 8. Changes to this Policy
 

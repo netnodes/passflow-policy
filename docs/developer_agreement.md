@@ -1,6 +1,6 @@
-## Developer Agreement
+# Developer Agreement
  
-_Last Updated: NOvember 2025_
+_Last Updated: November 2025_
 
 This PassFlow Developer Agreement (“Agreement”) is a legally binding contract between you and **Netnodes Limited** (“PassFlow”, “we”, “us”, or “our”).  
 
@@ -9,18 +9,14 @@ By creating a developer account, signing in, or accessing the PassFlow API, you 
 If you do not agree, do not use the PassFlow API.
 
 
----
-
-### 1. Overview
+## 1. Overview
 
 This Agreement governs your access to and use of the PassFlow developer platform, including the PassFlow API, SDKs, tools, sample code, documentation, dashboards, test environments, and any related materials (“Developer Services”).
 
 Your use of the Developer Services must comply with this Agreement at all times.
 
 
----
-
-### 2. Developer Account
+## 2. Developer Account
 
 You must create and maintain a PassFlow account to use the Developer Services.
 
@@ -33,9 +29,7 @@ You are responsible for:
 You may not share, sell, or lease access to your account or API credentials.
 
 
----
-
-### **Licence to Use the Developer Services
+## Licence to Use the Developer Services
 
 PassFlow grants you a limited, non-exclusive, non-transferable, revocable licence to use the Developer Services solely to integrate your product or service with PassFlow.
 
@@ -43,9 +37,8 @@ You may not use the Developer Services to develop, operate, or assist a competin
 
 PassFlow owns all intellectual property rights in the Developer Services.
 
----
 
-### 4. Your Responsibilities
+## 4. Your Responsibilities
 
 You must:  
 
@@ -56,9 +49,8 @@ You must:
 
 You may not misrepresent your integration or imply that your product is endorsed or certified by PassFlow.
 
----
 
-### 5. Data Protection and Privacy
+## 5. Data Protection and Privacy
 
 If you process personal data through the Developer Services, you must do so lawfully, transparently, and only for purposes your users reasonably expect.
 
@@ -72,9 +64,8 @@ You must:
 
 You may not collect, store, or use personal data from the Developer Services for profiling, advertising, or any unrelated purpose.
 
----
 
-### 6. Security
+## 6. Security
 
 You must:  
 
@@ -90,9 +81,8 @@ You may not:
 - attempt to access data belonging to other PassFlow customers  
 - probe or scan PassFlow infrastructure
 
----
 
-### 7. Rate Limits and Usage Restrictions
+## 7. Rate Limits and Usage Restrictions
 
 PassFlow may apply rate limits, quotas, or other restrictions to ensure stable operation.
 
@@ -100,9 +90,8 @@ You may not attempt to bypass or exceed these limits.
 
 PassFlow may throttle, suspend, or terminate access that negatively impacts system performance or violates this Agreement.
 
----
 
-### 8. Brand Use and Attribution
+## 8. Brand Use and Attribution
 
 You may reference PassFlow factually (e.g., “Integrates with PassFlow”).
 
@@ -114,9 +103,9 @@ You may not:
 
 PassFlow may request that you modify or remove branding that we believe misuses our marks.
 
----
 
-### 9. Prohibited Conduct
+
+## 9. Prohibited Conduct
 
 You may not use the Developer Services to:  
 
@@ -130,9 +119,8 @@ You may not use the Developer Services to:
 
 PassFlow may suspend or terminate access immediately if prohibited conduct is detected.
 
----
 
-### 10. API Changes and Availability
+## 10. API Changes and Availability
 
 PassFlow may update, modify, or discontinue the Developer Services at any time.
 
@@ -140,16 +128,15 @@ We aim to provide reasonable notice for changes that materially affect your inte
 
 The Developer Services are provided on an “as is” and “as available” basis.
 
----
 
-### 11. Fees
+## 11. Fees
+
 Access to certain Developer Services may require payment based on published pricing or a separate written agreement.
 
 If pricing changes, continued use of the Developer Services constitutes acceptance of the new terms.
 
----
 
-### 12. Termination
+## 12. Termination
 
 You may stop using the Developer Services at any time.
 
@@ -166,34 +153,30 @@ Upon termination, you must:
 - delete all API credentials  
 - delete any cached PassFlow data unless retention is legally required
 
----
 
-### 13. Disclaimers
+## 13. Disclaimers
 
 To the maximum extent permitted by law:  
 - PassFlow provides the Developer Services without warranties or guarantees  
 - PassFlow does not warrant uninterrupted or error-free operation  
 - PassFlow is not responsible for loss of data, revenue, or business
 
----
 
-### 14. Limitation of Liability
+## 14. Limitation of Liability
 
 To the maximum extent permitted by law, PassFlow’s total liability arising out of or relating to this Agreement is limited to the amount paid by you for Developer Services in the preceding twelve months.
 
 PassFlow is not liable for indirect, incidental, consequential, or punitive damages.
 
----
 
-### 15. Changes to this Agreement
+## 15. Changes to this Agreement
 
 We may update this Agreement from time to time.  
 If we make material changes, we will notify you.  
 Your continued use of the Developer Services after the changes take effect constitutes acceptance.
 
----
 
-### 16. General Terms
+## 16. General Terms
 
 This Agreement:  
 

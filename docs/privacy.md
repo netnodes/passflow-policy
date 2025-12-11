@@ -2,9 +2,7 @@
 go_back: true
 ---
 
-## Privacy
-
-*(Trading name of NetNodes Limited)*
+## Privacy Notice
 
 _Last updated: December 2025_
 
