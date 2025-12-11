@@ -28,7 +28,7 @@ If you are entering into these Terms on behalf of an organisation, you represent
 2.2 **Processor Role.** To the extent NetNodes processes personal data on behalf of the Customer, NetNodes acts as a **Data Processor**.  
 2.3 **DPA Incorporation.**  
 By creating an account or using the Service, the Customer automatically enters into the **Data Processing Agreement (DPA)** available at [https://policy.netnodes.net/dpa](https://policy.netnodes.net/dpa) which forms part of these Terms.  
-2.4 **Privacy Policy.** Use of the Service is also subject to our Privacy Policy at [https://policy.passflow.io/privacy](https://policy.passflow.io/privacy)
+2.4 **Privacy Policy.** Use of the Service is also subject to our [Privacy Notice](privacy)
 
 
 
@@ -64,11 +64,15 @@ These agreements are separate and govern API access.
 ### 6. Cancellation & Termination
 
 6.1 **Customer Cancellation.** You may cancel your account at any time via your dashboard.  
+
 6.2 **Effect of Cancellation.** Upon cancellation, Customer Data may be deleted after a retention period as described in our DPA and Privacy Policy.  
+
 6.3 **Termination by NetNodes.** We may suspend or terminate access where:  
+
 - terms are violated  
 - required by law  
 - payment is overdue  
+
 6.4 **Survival.** Sections relating to IP, liability, indemnities, and data protection survive termination.
 
 
@@ -76,6 +80,7 @@ These agreements are separate and govern API access.
 ### 7. Intellectual Property
 
 7.1 **NetNodes IP.** All rights to the Service, software, documentation, and underlying technology belong to NetNodes.  
+
 7.2 **Customer IP.** Customer retains ownership of Customer Data and materials uploaded.
 
 
