@@ -19,7 +19,7 @@ Cookies are small text files stored on your device. They help websites function,
 
 PassFlow relies on a small number of cookies to provide the best possible experience.
 
-## Essential Cookies
+### Essential Cookies
 
 These cookies enable critical site features, including:  
 - secure login and account sessions  
@@ -28,16 +28,16 @@ These cookies enable critical site features, including:
 
 These cookies are required to use PassFlow.
 
-## Analytics Cookies
+### Analytics Cookies
 
 Analytics cookies help us understand how visitors use PassFlow so we can improve functionality and reliability.
 
 We use privacy-conscious analytics, and data is collected in aggregate form.
 
-## Preference Cookies
+### Preference Cookies
 
 These cookies remember user choices such as:
-- selected PassFlow workspace  
+- selected PassFlow workspace or project  
 - display settings  
 - language preferences  
 
@@ -57,4 +57,4 @@ If you disable essential cookies, you may not be able to use PassFlow or access 
 
 We may update this policy from time to time. When changes occur, we will update the “Last updated” date.
 
-For questions about cookies or privacy, please contact us.
+For questions about cookies or privacy, please contact us via our website.
