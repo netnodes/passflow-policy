@@ -1,4 +1,4 @@
-# Developer Agreement
+## Developer Agreement
  
 _Last Updated: November 2025_
 

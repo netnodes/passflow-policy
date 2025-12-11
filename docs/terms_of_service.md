@@ -47,10 +47,9 @@ By creating an account or using the Service, the Customer automatically enters i
 
 ### 4. API Terms
 
-4.1 **API Access.** Customers may access the Service via documented APIs.  
-4.2 **Rate Limits.** Excessive or abusive API usage may result in temporary or permanent suspension.  
-4.3 **No Warranty for Integrations.** We are not responsible for third-party integrations using our API.
+Developers who access the PassFlow API must comply with the PassFlow [Developer Agreement](developer_agreement) and [API Acceptable Use Policy](acceptable_use).
 
+These agreements are separate and govern API access.
 
 
 ### 5. Subscriptions, Billing & Taxes

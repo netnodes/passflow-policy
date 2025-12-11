@@ -2,7 +2,7 @@
 go_back: true
 ---
 
-# API Acceptable Use Policy
+## API Acceptable Use Policy
  
 _Last Updated: November 2025_
 
