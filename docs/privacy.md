@@ -32,15 +32,15 @@ PassFlow customers are Data Controllers for information they upload or manage wi
 
 **Account information**
 
-Name, business details, email, phone number, login credentials.
+- Name, business details, email, phone number, login credentials.
 
 **Payment information**
 
-Handled by third-party payment processors. NetNodes does not store full payment card numbers.
+- Handled by third-party payment processors. NetNodes does not store full payment card numbers.
 
 **Communications**
 
-Support messages, contact details, attachments, email open confirmations.
+- Support messages, contact details, attachments, email open confirmations.
 
 **Data entered by PassFlow customers**
 
