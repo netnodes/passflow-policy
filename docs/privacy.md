@@ -137,7 +137,7 @@ We comply with relevant state-level privacy laws (e.g., CCPA/CPRA).
 
 You may have rights to access, delete, request information about categories of data, and opt out of sale/sharing.
 
-We **do not** sell data.
+We **do not and never will** sell your data.
 
 
 
@@ -189,8 +189,4 @@ We may update this Privacy Policy periodically. Material changes will be communi
 
 ### 13. Contact Us
 
-**NetNodes Limited**
-
-Trading as **PassFlow**
-
-Email: [**privacy@netnodes.net**](mailto:privacy@netnodes.net)
+If you have questions about this policy or your personal data, please contact us at privacy@netnodes.net
