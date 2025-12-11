@@ -44,14 +44,14 @@ PassFlow customers are Data Controllers for information they upload or manage wi
 
 This may include:
 
-- Name
-- Email address
-- Phone number
-- Member ID / customer ID
-- Pass metadata
-- Images or logos
-- Optional personalisation elements
-- Apple Wallet / Google Wallet identifiers
+- Name  
+- Email address  
+- Phone number  
+- Member ID / customer ID  
+- Pass metadata  
+- Images or logos  
+- Optional personalisation elements  
+- Apple Wallet / Google Wallet identifiers  
 
 This is controlled by the customer.
 
@@ -59,18 +59,18 @@ This is controlled by the customer.
 
 #### B. Information We Collect Automatically
 
-- Usage logs (API calls, admin actions)
-- Pass distribution events (e.g., pass created, updated, revoked)
-- Technical information: IP address, browser type, operating system
-- Cookie and tracking data (where lawful)
+- Usage logs (API calls, admin actions)  
+- Pass distribution events (e.g., pass created, updated, revoked)  
+- Technical information: IP address, browser type, operating system  
+- Cookie and tracking data (where lawful)  
 
 
 
 #### C. Information from Third Parties
 
-- Identity providers
-- Integration partners
-- Publicly available information
+- Identity providers  
+- Integration partners  
+- Publicly available information  
 
 
 
@@ -78,15 +78,15 @@ This is controlled by the customer.
 
 To:
 
-- Provide, operate, and secure PassFlow
-- Support digital pass creation and distribution
-- Manage Apple/Google Wallet integrations
-- Improve and enhance the platform
-- Provide customer support
-- Process payments
-- Prevent abuse or fraud
-- Conduct anonymised analytics
-- Communicate important account notices and service messages
+- Provide, operate, and secure PassFlow  
+- Support digital pass creation and distribution  
+- Manage Apple/Google Wallet integrations  
+- Improve and enhance the platform  
+- Provide customer support  
+- Process payments  
+- Prevent abuse or fraud  
+- Conduct anonymised analytics  
+- Communicate important account notices and service messages  
 
 Marketing communications are optional and require consent where required by law.
 
@@ -96,12 +96,12 @@ Marketing communications are optional and require consent where required by law.
 
 We may share personal data with:
 
-- **Sub-processors** (hosting, messaging, infrastructure partners)
-- **Apple and Google** as required for wallet pass issuance
-- **Analytics providers** (with consent where required)
-- **Legal authorities**, when required
-- **Potential acquirers**, as part of a transaction
-- **Other parties**, only where anonymised/aggregated
+- **Sub-processors** (hosting, messaging, infrastructure partners)  
+- **Apple and Google** as required for wallet pass issuance  
+- **Analytics providers** (with consent where required)  
+- **Legal authorities**, when required  
+- **Potential acquirers**, as part of a transaction  
+- **Other parties**, only where anonymised/aggregated  
 
 **We do not, and never will** sell personal data.
 
@@ -111,11 +111,11 @@ We may share personal data with:
 
 May include:
 
-- Contractual necessity
-- Legitimate interests
-- Consent (where legally required)
-- Legal obligations
-- Vital interests
+- Contractual necessity  
+- Legitimate interests  
+- Consent (where legally required)  
+- Legal obligations  
+- Vital interests  
 
 PassFlow customers determine the lawful basis for their use of user data.
 
@@ -145,9 +145,9 @@ We **do not** sell data.
 
 Transfers outside the UK/EEA are protected by:
 
-- Standard Contractual Clauses (SCCs)
-- Adequacy decisions
-- Additional safeguards
+- Standard Contractual Clauses (SCCs)  
+- Adequacy decisions  
+- Additional safeguards  
 
 
 
@@ -155,13 +155,13 @@ Transfers outside the UK/EEA are protected by:
 
 Security measures include:
 
-- Encryption
-- Access controls
-- MFA
-- Infrastructure hardening
-- Logging & monitoring
-- Periodic penetration testing
-- Strong sub-processor review controls
+- Encryption  
+- Access controls  
+- MFA  
+- Infrastructure hardening  
+- Logging & monitoring  
+- Periodic penetration testing  
+- Strong sub-processor review controls  
 
 
 
