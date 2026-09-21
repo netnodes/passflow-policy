@@ -20,13 +20,19 @@ These documents explain how the PassFlow platform works, how we provide support,
 ## Corporate Policies
 
 Because PassFlow is provided by NetNodes Limited, the following company-wide policies also apply:
-  
-- Data Processing Agreement  
-- Corporate & Social Responsibility Statement  
-- Equal Opportunities Policy  
-- Environmental Policy  
 
-These documents are published at [policy.netnodes.net](https://policy.netnodes.net).
+- [Corporate & Social Responsibility](corporate_social_responsibility)
+- [Equal Opportunities](equal_opportunities)
+- [Environmental](environmental)
+- [Terms of Sale](terms)
+
+Two further NetNodes Limited documents apply and are published on the corporate site:
+
+- [Data Processing Agreement](https://policy.netnodes.net/dpa)
+- [Sub-processors](https://policy.netnodes.net/subprocessors)
+
+All of these are NetNodes Limited policies. The full set is at
+[policy.netnodes.net](https://policy.netnodes.net).
 
 ## Our Commitment  
 We believe legal information should be clear and approachable. If you require assistance understanding any of these documents or need additional information for your organisation, please get in touch.
