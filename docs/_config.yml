@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: PassFlow Policy
 logo: /assets/images/logo.svg
 favicon: /assets/images/favicon.png
+
+# Whitelisted on GitHub Pages but not enabled unless declared. Needed so a
+# document that moves can keep its old URL working via redirect_from, rather
+# than leaving a 404 or a duplicate.
+plugins:
+  - jekyll-redirect-from
