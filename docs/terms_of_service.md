@@ -1,5 +1,8 @@
 ---
 go_back: true
+redirect_from:
+  # The DoorFlow Terms of Service, published here by mistake.
+  - /terms_of_service2
 ---
 
 

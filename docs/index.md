@@ -9,7 +9,7 @@ PassFlow powers digital passes for access control, membership, events, and loyal
 The following documents relate directly to the PassFlow platform:  
 
 - [Developer Agreement](developer_agreement)
-- [API Acceptble Use](acceptable_use)
+- [API Acceptable Use](acceptable_use)
 - [Privacy Notice](privacy)
 - [Use of Cookies](cookies)
 - [Terms of Service](terms_of_service)

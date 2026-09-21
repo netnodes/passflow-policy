@@ -1,5 +1,13 @@
 ---
 go_back: true
+redirect_from:
+  # The DoorFlow legacy notice, which was published here by mistake. It named
+  # Google Analytics as our processor, which was never true of PassFlow.
+  # passflow-web's footer still links this path.
+  - /privacy_policy
+  # An internal staff data-protection policy written against the Data
+  # Protection Act 1998, which should never have been public.
+  - /privacy2
 ---
 
 ## Privacy Notice
