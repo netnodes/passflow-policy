@@ -5,56 +5,53 @@ cookies: true
 
 ## Use of Cookies
 
-_Last updated: December 2025_
+_Last updated: September 2026_
 
-PassFlow, a trading name of NetNodes Limited (“NetNodes”, “we”, “us”, or “our”), uses cookies and similar technologies to support a smooth and secure experience across the PassFlow website and platform.
+PassFlow, a trading name of NetNodes Limited (“NetNodes”, “we”, “us”, or “our”) uses cookies and similar technologies on passflow.io and policy.passflow.io.
 
-This policy describes how cookies work on passflow.io and policy.passflow.io.
+This policy lists every cookie we set, what it is for, and how long it lasts.
 
 ### What Are Cookies?
 
-Cookies are small text files stored on your device. They help websites function, remember preferences, and understand how visitors interact with content.
+Cookies are small files stored on your device when you visit a website. They allow the site to remember information between pages and visits.
 
-### How PassFlow Uses Cookies
+### The Cookies We Set
 
-PassFlow relies on a small number of cookies to provide the best possible experience.
+| Cookie | Set by | Purpose | Duration |
+| --- | --- | --- | --- |
+| `_passflow_web_session` | NetNodes Limited | Keeps you signed in and maintains session state, including two-factor authentication. Strictly necessary. | Until you close your browser |
+| `cookieConsent` | NetNodes Limited | Records whether you accepted or declined analytics cookies, so we do not ask again. Strictly necessary. | 12 months |
+| `_pk_id.*` | Matomo Cloud, operated by InnoCraft Ltd | Distinguishes one visitor from another so we can count returning visits. **Set only after you accept.** | 13 months |
+| `_pk_ses.*` | Matomo Cloud, operated by InnoCraft Ltd | Groups the pages you view into a single visit. **Set only after you accept.** | 30 minutes |
 
-#### Essential Cookies
+The strictly necessary cookies are set whatever you choose. Without them you may be unable to sign in.
 
-These cookies enable critical site features, including:  
-- secure login and account sessions  
-- maintaining authentication state  
-- protecting the service from misuse or unauthorised access  
+### Analytics
 
-These cookies are required to use PassFlow.
+We use **Matomo**, a web analytics service operated by InnoCraft Ltd, to understand how our sites are used so we can improve them. Matomo is listed in our [sub-processors](https://policy.netnodes.net/subprocessors).
 
-#### Analytics Cookies
+Matomo's cookies are set **only once you have accepted them**. If you decline, or do not answer, no analytics cookie is set and no analytics data is recorded.
 
-Analytics cookies help us understand how visitors use PassFlow so we can improve functionality and reliability.
+Matomo records individual visits rather than only totals: the `_pk_id` cookie distinguishes one visitor from another across visits. We use this to produce reports about how the site is used, not to identify you. Our [Privacy Notice](privacy) explains the lawful basis and how to object.
 
-We use privacy-conscious analytics, and data is collected in aggregate form.
+### Preference Cookies
 
-#### Preference Cookies
-
-These cookies remember user choices such as:
-- selected PassFlow workspace or project  
-- display settings  
-- language preferences  
-
-They allow PassFlow to feel more consistent and personal.
+We do not currently set any preference cookie. If that changes - for example to remember your selected PassFlow workspace or project, display settings, and language preferences - this policy will be updated first.
 
 ### Cookies We Do Not Use
 
-PassFlow does not use third-party marketing or advertising cookies, and we do not share cookie data with advertisers.
+We use no advertising or marketing cookies, and we do not sell or share cookie data with advertisers. No third party other than Matomo Cloud sets a cookie on our sites.
 
 ### Managing Cookies
 
-Most browsers allow you to block or delete cookies.
+You can change your answer at any time using the “Review your decision” button on this page.
 
-If you disable essential cookies, you may not be able to use PassFlow or access your account.
+You can also block or delete cookies through your browser settings. If you block the strictly necessary cookies, the site may not work correctly.
+
+Declining also deletes any Matomo cookie already set on an earlier visit.
 
 ### Updates
 
-We may update this policy from time to time. When changes occur, we will update the “Last updated” date.
+We may update this policy from time to time. When we do, we will revise the “Last updated” date.
 
-For questions about cookies or privacy, please contact us via our website.
+If you have questions about how we use cookies, please contact us at [privacy@netnodes.net](mailto:privacy@netnodes.net).
