@@ -3,6 +3,13 @@ title: PassFlow Policy
 logo: /assets/images/logo.svg
 favicon: /assets/images/favicon.png
 
+# jekyll-redirect-from builds its targets from site.url. Without this it
+# falls back to site.github.url, which returns http:// unless Enforce HTTPS
+# is on for the repository - so the redirect stubs and their rel=canonical
+# pointed at http://. Stating it here makes the scheme independent of that
+# setting.
+url: https://policy.passflow.io
+
 # Whitelisted on GitHub Pages but not enabled unless declared. Needed so a
 # document that moves can keep its old URL working via redirect_from, rather
 # than leaving a 404 or a duplicate.
