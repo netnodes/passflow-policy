@@ -10,11 +10,13 @@ redirect_from:
   - /privacy2
 ---
 
-## Privacy Notice
+# Privacy Notice
 
 _Last updated: September 2026_
 
-### **Introduction**
+---
+
+## **Introduction**
 
 This Privacy Notice explains how **NetNodes Limited** (“NetNodes”, “we”, “our”, “us”), trading as **PassFlow**, collects, uses, and protects personal information when you use our websites, applications, and digital pass services (collectively, the “Services”).
 
@@ -22,9 +24,9 @@ This notice applies globally to users in the **UK, EU/EEA, the United States**, 
 
 PassFlow may be used by organisations to distribute and manage digital passes (e.g., access passes, membership passes, event passes). When organisations store or manage end-user data, NetNodes acts as a **Data Processor**.
 
+---
 
-
-### 1. Who We Are
+## 1. Who We Are
 
 NetNodes Limited is the Data Controller for data collected directly (e.g., website usage, registration).
 
@@ -32,11 +34,11 @@ PassFlow customers are Data Controllers for information they upload or manage wi
 
 Our [Data Processing Agreement](https://policy.netnodes.net/dpa) governs our role as Processor, and our [sub-processors](https://policy.netnodes.net/subprocessors) are published on the corporate site.
 
+---
 
+## 2. Information We Collect
 
-### 2. Information We Collect
-
-#### A. Information You Provide
+### A. Information You Provide
 
 **Account information**
 
@@ -67,7 +69,7 @@ This is controlled by the customer.
 
 
 
-#### B. Information We Collect Automatically
+### B. Information We Collect Automatically
 
 - Usage logs (API calls, admin actions)  
 - Pass distribution events (e.g., pass created, updated, revoked)  
@@ -76,7 +78,7 @@ This is controlled by the customer.
 
 
 
-#### C. Measurement of our websites
+### C. Measurement of our websites
 
 We measure how our public websites are used, so that we can see what is working and improve them.
 
@@ -86,16 +88,16 @@ Where we use analytics cookies for this, they are set only after you have consen
 
 We rely on legitimate interests for this measurement. You can object at any time using the contact details in section 13, and you can decline analytics cookies without affecting your use of the Services.
 
-#### D. Information from Third Parties
+### D. Information from Third Parties
 
 - Identity providers  
 - Integration partners  
 - Publicly available information  
 - An IP geolocation service, used by the call-back widget on our website to offer you a telephone number in your own country  
 
+---
 
-
-### 3. How We Use Information
+## 3. How We Use Information
 
 To:
 
@@ -111,9 +113,9 @@ To:
 
 Marketing communications are optional and require consent where required by law.
 
+---
 
-
-### 4. How We Share Information
+## 4. How We Share Information
 
 We may share personal data with:
 
@@ -126,9 +128,9 @@ We may share personal data with:
 
 **We do not, and never will** sell personal data.
 
+---
 
-
-### 5. Legal Basis for Processing
+## 5. Legal Basis for Processing
 
 May include:
 
@@ -140,9 +142,9 @@ May include:
 
 PassFlow customers determine the lawful basis for their use of user data.
 
+---
 
-
-### 6. Your Rights (UK/EU/EEA)
+## 6. Your Rights (UK/EU/EEA)
 
 You may have rights to access, correct, delete, object, restrict, or port your data.
 
@@ -150,9 +152,9 @@ Requests relating to PassFlow customer–stored data must be made to the Data Co
 
 Requests about data collected directly by NetNodes can be made to: [**privacy@netnodes.net**](mailto:privacy@netnodes.net)
 
+---
 
-
-### 7. Rights for California / US Users
+## 7. Rights for California / US Users
 
 We comply with relevant state-level privacy laws (e.g., CCPA/CPRA).
 
@@ -160,9 +162,9 @@ You may have rights to access, delete, request information about categories of d
 
 We **do not and never will** sell your data.
 
+---
 
-
-### 8. International Transfers
+## 8. International Transfers
 
 Transfers outside the UK/EEA are protected by:
 
@@ -170,9 +172,9 @@ Transfers outside the UK/EEA are protected by:
 - Adequacy decisions  
 - Additional safeguards  
 
+---
 
-
-### 9. Security
+## 9. Security
 
 Security measures include:
 
@@ -184,30 +186,30 @@ Security measures include:
 - Periodic penetration testing  
 - Strong sub-processor review controls  
 
+---
 
-
-### 10. Data Retention
+## 10. Data Retention
 
 We retain personal data only as long as necessary.
 
 PassFlow customers may set their own data retention periods for passholder data.
 
+---
 
-
-### 11. Children’s Privacy
+## 11. Children’s Privacy
 
 PassFlow is not intended for children under 16 (or under local minimum age thresholds).
 
 We do not knowingly collect such information.
 
+---
 
-
-### 12. Changes to This Notice
+## 12. Changes to This Notice
 
 We may update this Privacy Notice periodically. Material changes will be communicated appropriately.
 
+---
 
-
-### 13. Contact Us
+## 13. Contact Us
 
 If you have questions about this notice or your personal data, please contact us at privacy@netnodes.net
