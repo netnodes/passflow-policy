@@ -10,12 +10,12 @@ PassFlow powers digital passes for access control, membership, events, and loyal
 
 The following documents relate directly to the PassFlow platform:  
 
-- [Developer Agreement](developer_agreement)
-- [API Acceptable Use](acceptable_use)
 - [Privacy Notice](privacy)
 - [Use of Cookies](cookies)
 - [Terms of Service](terms_of_service)
 - [Service Level Agreement (SLA)](service_level_agreement)
+- [Developer Agreement](developer_agreement)
+- [API Acceptable Use](acceptable_use)
 
 These documents explain how the PassFlow platform works, how we provide support, and the rules that ensure the platform remains safe and reliable.
 

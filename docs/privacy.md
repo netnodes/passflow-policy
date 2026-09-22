@@ -148,9 +148,13 @@ PassFlow customers determine the lawful basis for their use of user data.
 
 You may have rights to access, correct, delete, object, restrict, or port your data.
 
-Requests relating to PassFlow customer–stored data must be made to the Data Controller (the customer).
+Requests relating to data stored by a PassFlow customer must be made to the Data Controller (the customer).
 
 Requests about data collected directly by NetNodes can be made to: [**privacy@netnodes.net**](mailto:privacy@netnodes.net)
+
+You also have the right to complain to the Information Commissioner's Office, the UK supervisory authority for data protection, at [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/). We would ask you to raise it with us first, so that we have the chance to put it right.
+
+**Automated decision-making.** We do not make decisions about you by automated means that produce legal effects or similarly significant effects, and we do not carry out profiling of that kind.
 
 ---
 
